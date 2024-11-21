@@ -8,5 +8,6 @@ public class test01 {
         System.out.println("hello world3");
         System.out.println("master text");
         System.out.println("hot-fix text");
+        System.out.println("push test");
     }
 }
